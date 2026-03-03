@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Tasty Shaala - Authentic Kerala Cuisine",
+  "description": "Experience the authentic flavors of Kerala at Tasty Shaala. From traditional Sadya to crispy Masala Dosa, we serve happiness on every plate.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
